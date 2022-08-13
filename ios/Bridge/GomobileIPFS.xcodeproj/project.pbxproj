@@ -432,7 +432,7 @@
 				FRAMEWORK_SEARCH_PATHS = "$(PROJECT_DIR)/../../packages/build/ios/intermediates/core/**";
 				INFOPLIST_FILE = GomobileIPFS/Info.plist;
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.2;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -467,7 +467,7 @@
 				FRAMEWORK_SEARCH_PATHS = "$(PROJECT_DIR)/../../packages/build/ios/intermediates/core/**";
 				INFOPLIST_FILE = GomobileIPFS/Info.plist;
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.2;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
